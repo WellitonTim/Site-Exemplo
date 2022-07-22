@@ -1,0 +1,17 @@
+@import url("header.css");
+@import url("carrossel.css");
+@import url("conhecamais.css");
+
+
+:root  {
+
+        --branco: rgb(255, 255, 255);
+        --roxo-escuro: rgb(33,35,71) ;
+        --azul-turqueza: rgb(178,178,191);
+        --cinza: rgb(130,130,130) ;
+        --verde: rgb(70,100,42);
+        
+}
+
+
+

@@ -1,0 +1,60 @@
+.titulo__1 {
+
+    font-size: 36px;
+    text-align: center;
+    padding: 1em 0 0.1em 0;    
+    color: var(--roxo-escuro);
+    font-weight: 700;
+    
+}
+
+.principal__conheca__mais-linha {
+
+    border: solid;
+    color: var(--cinza);
+    width: 40%;
+}
+
+
+
+.principal__conheca__mais-imagens-lista {
+
+    display: flex;
+    justify-content: space-around;
+    padding: 15em 0 0 0;
+   
+   
+}
+
+.principal__conheca__mais-imagens-item{
+
+    border: solid;
+    border-color: var(--verde);
+    padding: 3em 3em;
+    
+    
+
+}
+.principal__conheca__mais-imagens-item {
+
+    font-size: 36px;
+    font-weight: 700;
+    
+    
+}
+
+.principal__conheca__mais-imagens-item-milho {
+
+    background: var(--verde);
+    color: var(--branco);
+
+    
+    
+}
+
+.principal__conheca__mais-imagens-item-soja,
+.principal__conheca__mais-imagens-item-algodao {
+
+    color: var(--roxo-escuro);
+   
+}

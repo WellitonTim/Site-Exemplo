@@ -1,0 +1,24 @@
+.principal__carrossel {
+
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+
+    display: flex;
+    --webkit-box-pack:center;
+    -ms-flex-pack: center;
+    -webkit-justify-content:center;
+    -webkit-box-aling:center;
+    -ms-flex-align: :center;
+    webkit-aling-items:center;
+    aling-items:center;
+}
+
+.swiper-slide img{
+
+    width: 100%;
+    height: auto;
+}
+    
