@@ -2,7 +2,7 @@
 
     font-size: 36px;
     text-align: center;
-    padding: 1em 0 0.1em 0;    
+    padding: 4em 0 0.1em 0;    
     color: var(--roxo-escuro);
     font-weight: 700;
     
@@ -16,45 +16,36 @@
 }
 
 
+.principa__conheca__mais-imagens {
 
-.principal__conheca__mais-imagens-lista {
-
-    display: flex;
-    justify-content: space-around;
-    padding: 15em 0 0 0;
-   
-   
+    padding: 4em 0 0.1em 18em;    
+    width: 70%;
 }
 
-.principal__conheca__mais-imagens-item{
+.botao {
 
-    border: solid;
-    border-color: var(--verde);
-    padding: 3em 3em;
+    text-align: center;
+    padding: 10em;
     
     
+      
+
 
 }
-.principal__conheca__mais-imagens-item {
 
-    font-size: 36px;
-    font-weight: 700;
-    
-    
-}
+.botao__saiba_mais {
 
-.principal__conheca__mais-imagens-item-milho {
-
-    background: var(--verde);
+    text-align: center;
+    text-decoration: none;
+    background: var(--roxo-escuro);
     color: var(--branco);
-
+    border-radius: 50px;
+    font-size: 36px ;
+    padding: 0.5em 2em;
     
     
-}
-
-.principal__conheca__mais-imagens-item-soja,
-.principal__conheca__mais-imagens-item-algodao {
-
-    color: var(--roxo-escuro);
    
+    
+  
+
 }
